@@ -1,7 +1,7 @@
 ```
-Student name: Linda Danvers
-Student number: 123456
-Course code: ITI1121
+Student name: Daoudi Souhail
+Student number: 300135458
+Course code: ITI1521
 Assignment: Asg01
 Course section: 02
 Java: 1.8
